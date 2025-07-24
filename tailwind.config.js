@@ -58,17 +58,20 @@ export default {
                 'body-bg':                                              colors.slate[100],
                 'body-bordered':                                        colors.white,
 
+                //#7D1621 principal 
+                //#F4E9DC secondary
+
                 //sidebar light
                 'vertical-menu':                                        colors.white,
-                'vertical-menu-border':                                 colors.slate[200],
-                'vertical-menu-item':                                   colors.slate[400],
-                'vertical-menu-item-hover':                             colors.blue[500],
-                'vertical-menu-item-bg-hover':                          colors.blue[50],
-                'vertical-menu-item-active':                            colors.blue[500],
-                'vertical-menu-item-bg-active':                         colors.blue[50],
-                'vertical-menu-sub-item':                               colors.slate[400],
-                'vertical-menu-sub-item-hover':                         colors.blue[500],
-                'vertical-menu-sub-item-active':                        colors.blue[500],
+                'vertical-menu-border':                                 colors.white,
+                'vertical-menu-item':                                   '#7D1621',
+                'vertical-menu-item-hover':                             '#7D1621',
+                'vertical-menu-item-bg-hover':                          '#F4E9DC',
+                'vertical-menu-item-active':                            '#7D1621',
+                'vertical-menu-item-bg-active':                         '#7D1621',
+                'vertical-menu-sub-item':                               '#7D1621',
+                'vertical-menu-sub-item-hover':                         '#F4E9DC',
+                'vertical-menu-sub-item-active':                        '#7D1621',
 
                 //sidebar dark
                 'vertical-menu-dark':                                   colors.slate[900],
@@ -107,12 +110,15 @@ export default {
                 'vertical-menu-sub-item-hover-modern':                  colors.white,
                 'vertical-menu-sub-item-active-modern':                 colors.white,
 
+                //#7D1621 principal 
+                //#F4E9DC secondary
+
                 //TOPBAR
                 'topbar':                                                 colors.white,
-                'topbar-border':                                          colors.slate[200],
-                'topbar-item':                                            colors.slate[700],
-                'topbar-item-hover':                                      colors.slate[800],
-                'topbar-item-bg-hover':                                   colors.slate[100],
+                'topbar-border':                                          colors.white,
+                'topbar-item':                                            '#7D1621',
+                'topbar-item-hover':                                      '#7D1621',
+                'topbar-item-bg-hover':                                   '#F4E9DC',
 
                 'topbar-dark':                                            colors.slate[900],
                 'topbar-border-dark':                                     colors.slate[700],
@@ -120,23 +126,25 @@ export default {
                 'topbar-item-hover-dark':                                 colors.slate[100],
                 'topbar-item-bg-hover-dark': colors.slate[800],
 
-                'topbar-brand':                                            colors.blue[900],
-                'topbar-border-brand':                                     colors.blue[800],
-                'topbar-item-brand':                                       "#a4bbfd",
+                'topbar-brand':                                            '#7D1621',
+                'topbar-border-brand':                                     '#7D1621',
+                'topbar-item-brand':                                       "#7D1621",
                 'topbar-item-hover-brand':                                 colors.white,
-                'topbar-item-bg-hover-brand':                              "#224097",
+                'topbar-item-bg-hover-brand':                              "#F4E9DC",
 
                 'topbar-modern':                                          colors.white,
 
 
+                //#7D1621 principal 
+                //#F4E9DC secondary
                 custom: {
                     50: colors.blue[50],
                     100: colors.blue[100],
                     200: colors.blue[200],
                     300: colors.blue[300],
                     400: colors.blue[400],
-                    500: colors.blue[500], // Using Tailwind's color palette
-                    600: colors.blue[600],
+                    500: '#7D1621', // Using Tailwind's color palette
+                    600: '#F4E9DC',
                     700: colors.blue[700],
                     800: colors.blue[800],
                     900: colors.blue[900],

@@ -47,10 +47,6 @@
     "file": "icons/hr-dashboard.png",
     "src": "resources/images/hr-dashboard.png"
   },
-  "resources/images/product/bg.png": {
-    "file": "icons/bg.png",
-    "src": "resources/images/product/bg.png"
-  },
   "resources/images/product/cta-2.png": {
     "file": "icons/cta-2.png",
     "src": "resources/images/product/cta-2.png"

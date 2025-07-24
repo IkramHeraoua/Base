@@ -169,7 +169,7 @@
                         <p class="mb-5 text-slate-400">An ecommerce dashboard has just that purpose. It provides your
                             ecommerce team with a clear overview of key financial and website KPIs at any time.</p>
                         <button type="button"
-                            class="text-white btn bg-custom-500 border-custom-500 hover:text-white hover:bg-custom-600 hover:border-custom-600 focus:text-white focus:bg-custom-600 focus:border-custom-600 focus:ring focus:ring-custom-500/20 active:text-white active:bg-custom-600 active:border-custom-600 active:ring active:ring-custom-500/20 dark:ring-custom-400/20">Take
+                            class="bg-custom-500 btn bg-custom-500 border-custom-500 hover:custom-500 hover:bg-custom-600 hover:border-custom-600 focus:text-white focus:bg-custom-600 focus:border-custom-600 focus:ring focus:ring-custom-500/20 active:text-white active:bg-custom-600 active:border-custom-600 active:ring active:ring-custom-500/20 dark:ring-custom-400/20">Take
                             a Product</button>
                     </div>
                     <div class="hidden col-span-12 2xl:col-span-3 lg:col-span-2 lg:col-start-11 2xl:col-start-10 lg:block">
