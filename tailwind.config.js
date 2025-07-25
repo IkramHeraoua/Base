@@ -163,18 +163,18 @@ export default {
                     900: colors.red[900],
                     950: colors.red[950],
                 },
-                green: {
-                    50: "#EAFAF7",
-                    100: "#D2F4EE",
-                    200: "#A0E8DB",
-                    300: "#56D7BF",
-                    400: "#2DBDA3",
-                    500: "#249782", // Using Tailwind's color palette
-                    600: "#208875",
-                    700: "#1C7767",
-                    800: "#186355",
-                    900: "#11463C",
-                    950: "#0B2D27"
+                burgundy: {
+                    50: "#F4E9DC",
+                    100: "#F4E9DC",
+                    200: "#F4E9DC",
+                    300: "#F4E9DC",
+                    400: "#7c1621",
+                    500: "#7D1621", // Using Tailwind's color palette
+                    600: "#7e1621",
+                    700: "#7D1621",
+                    800: "#7D1621",
+                    900: "#7D1621",
+                    950: "#7D1621"
                 },
 
                 yellow: {
